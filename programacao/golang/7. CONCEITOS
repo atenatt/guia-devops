@@ -1,0 +1,32 @@
+## Seção: Conceitos Básicos do Go 🧠💡
+
+Agora que você já deu seus primeiros passos com os **Fundamentos** do Go, está na hora de explorar conceitos mais profundos e poderosos da linguagem! 🚀 Nesta seção, vamos mergulhar em alguns tópicos essenciais para quem quer dominar o Go e entender melhor como ele funciona. Tudo será explicado de forma leve, descontraída e prática – afinal, aprender pode (e deve!) ser divertido! 😎
+
+### O que você vai aprender nesta seção? 🤔
+
+Aqui, vamos cobrir os seguintes tópicos:
+
+1. **Funções (declaração, parâmetros e retorno)**  
+   Entenda como as funções são declaradas, como passar e receber valores e o que torna as funções tão essenciais no Go. Vamos aprender a criar desde funções simples até funções que retornam múltiplos valores. 🔧
+
+2. **Escopo de Variáveis**  
+   O escopo das variáveis determina onde elas podem ser usadas no seu código. Saber isso é importante para evitar erros e criar programas mais organizados e eficientes! Vamos descobrir a diferença entre variáveis globais, locais e como isso impacta o comportamento do seu código. 🌍
+
+3. **Arrays, Slices e Maps**  
+   Esses três conceitos são a base para trabalhar com coleções de dados no Go. Vamos ver como criar e manipular arrays (listas de tamanho fixo), slices (listas dinâmicas) e maps (dicionários de chave-valor). 🗂️
+
+4. **Estruturas de Dados (Structs)**  
+   No Go, structs são usadas para agrupar diferentes tipos de dados sob uma mesma "estrutura". Isso vai te ajudar a organizar informações complexas de maneira simples e clara. 🏗️
+
+5. **Ponteiros**  
+   Um dos conceitos mais poderosos do Go! Aqui, você vai entender o que são ponteiros, como eles funcionam e por que podem ser muito úteis para a performance do seu código. Não se preocupe, vamos explicar de uma forma bem fácil. 🧲
+
+### O que esperar? 😄
+
+A cada tópico, teremos uma explicação clara com exemplos práticos e, claro, **muito código Go**! Se você gosta de aprender de forma prática, essa seção é para você. 📖💻
+
+Então, prepara o editor de código e vem com a gente aprender tudo sobre esses **conceitos essenciais** para se tornar um desenvolvedor Go completo! 🎯
+
+### 🌐 Navegação entre os arquivos:
+
+- [⬅️ 6. ESTRUTURAS.md](https://github.com/atenatt/guia-devops/blob/main/programacao/golang/6.%20ESTRUTURAS.md) | | [➡️ 8. FUNCOES.md](https://github.com/atenatt/guia-devops/blob/main/programacao/golang/8.%20FUNCOES.md)
